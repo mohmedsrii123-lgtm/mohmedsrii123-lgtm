@@ -27,7 +27,7 @@
 | **brikoul-platform** | A local marketplace platform for Dakhla |
 | **Bex Coffee Dakhla** | Client work at Code Twin — the digital presence of a specialty coffee shop |
 
-Portfolio: https://medsrai.netlify.app
+Portfolio: https://mohamedsrai.netlify.app
 
 ### Code Twin
 
@@ -39,4 +39,4 @@ Contact: codetwin2.0@gmail.com
 
 - Email: mohamed.srai25@gmail.com
 - LinkedIn: Mohamed Srai
-- Portfolio: https://medsrai.netlify.app
+- Portfolio: https://mohamedsrai.netlify.app
